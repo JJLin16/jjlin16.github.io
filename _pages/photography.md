@@ -5,11 +5,16 @@ layout: single
 ---
 
 
-# 🌿 Photography
+---
 
-Here are some photos I’ve taken.
+Here is my collection of nature photos:
 
-## Forest
-![Green forest](/assets/images/1.jpg)
+<ul>
+{% for item in site.nature %}
+  <li>
+    <a href="{{ item.url }}">{{ item.title }}</a>
+  </li>
+{% endfor %}
+</ul>)
 
 
