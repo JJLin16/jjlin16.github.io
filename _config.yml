@@ -293,9 +293,9 @@ defaults:
   # _photography
   - scope:
       path: ""
-      type: _photography
+      type: photography
     values:
-      layout: _photography
+      layout: photography
       author_profile: true
       comment: true
 
