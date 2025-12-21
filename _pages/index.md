@@ -14,3 +14,5 @@ I am a student learning web development. I enjoy creating websites and exploring
 - **Project 1:** Short description
 - **Project 2:** Short description
 - **Project 3:** Short description
+
+[🌿 Photography](/nature/)
