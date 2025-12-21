@@ -1,6 +1,7 @@
 ---
 title: Nature Gallery
 permalink: /nature/
+author_profile: true
 ---
 
 # 🌿 Nature Gallery
