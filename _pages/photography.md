@@ -5,9 +5,9 @@ layout: single
 ---
 
 
----
+## My Photography Collection
 
-Here is my collection of nature photos:
+Here are all my photos:
 
 <ul>
 {% for item in site.photography %}

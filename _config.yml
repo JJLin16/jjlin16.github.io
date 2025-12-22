@@ -294,18 +294,20 @@ defaults:
       author_profile: true
       share: true
   # _photography
-  - collections:
+    collections:
     photography:
     output: true
     permalink: /photography/:path/
+
     defaults:
   - scope:
       path: ""
       type: photography
     values:
       layout: single
-      author_profile: true
-      comments: true
+      author_profile: false
+      share: false
+
 
 
 
