@@ -16,5 +16,3 @@ Here are all my photos:
   </li>
 {% endfor %}
 </ul>)
-
-
