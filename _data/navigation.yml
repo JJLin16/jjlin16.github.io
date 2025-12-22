@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research Interests"
+    url: /research interests/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -25,7 +25,7 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+
   - title: "Photography"
     url: /photography/
 
