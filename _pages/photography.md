@@ -12,7 +12,7 @@ Here are all my photos:
 <ul>
 {% for item in site.photography %}
   <li>
-    <a href="{{ https://jjlin16.github.io/photography }}">{{ forest }}</a>
+    <a href="{{ item.url }}">{{ item.title }}</a>
   </li>
 {% endfor %}
 </ul>)
