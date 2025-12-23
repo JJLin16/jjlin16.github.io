@@ -285,12 +285,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _research_interests
+  # _research
   - scope:
       path: ""
-      type: research_interests
+      type: research
     values:
-      layout: research_interests
+      layout: research
       author_profile: true
       share: true
   # _photography

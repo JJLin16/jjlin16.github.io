@@ -1,6 +1,6 @@
 ---
 title: Research
-permalink: /research_interests/
+permalink: /research/
 layout: single
 ---
 
