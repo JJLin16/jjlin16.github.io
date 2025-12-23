@@ -1,11 +1,11 @@
 ---
-title: About
+title: About me
 permalink: /about/
 author_profile: true
 layout: single
 ---
 
-# About Me
+# 
 
 Hi! I’m JJ Lin. I’m passionate about web development and technology.  
 Currently, I’m learning how to create websites using GitHub Pages, Jekyll, and HTML/CSS.
