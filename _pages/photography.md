@@ -15,4 +15,4 @@ Here are all my photos:
     <a href="{{ item.url }}">{{ item.title }}</a>
   </li>
 {% endfor %}
-</ul>)
+</ul>
