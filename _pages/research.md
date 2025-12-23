@@ -9,22 +9,22 @@ layout: single
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
 <div style="flex: 1 1 200px; border: 1px solid #ddd; padding: 15px; border-radius: 8px;">
-**Public Health**  
+<strong>Public Health</strong><br>
 Exploring healthcare systems and policies to improve population health.
 </div>
 
 <div style="flex: 1 1 200px; border: 1px solid #ddd; padding: 15px; border-radius: 8px;">
-**Sustainability**  
+<strong>Sustainability</strong><br>
 Focusing on environmental and social sustainability solutions.
 </div>
 
 <div style="flex: 1 1 200px; border: 1px solid #ddd; padding: 15px; border-radius: 8px;">
-**Environmental Health**  
+<strong>Environmental Health</strong><br>
 Researching the impact of environmental factors on human health.
 </div>
 
 <div style="flex: 1 1 200px; border: 1px solid #ddd; padding: 15px; border-radius: 8px;">
-**Health Policy**  
+<strong>Health Policy</strong><br>
 Studying health policy, regulation, and implementation.
 </div>
 
